@@ -1,8 +1,7 @@
-#%% CREATE ADABOOST FROM SCRATCH
+CREATE ADABOOST FROM SCRATCH
 ### Alvaro Corrales
 ### April 2021 (work in progress)
-
-# Imports
+#Imports
 import numpy as np
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
